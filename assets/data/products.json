@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "title": "iPhone 15 Pro Max",
+    "description": "A17 Pro çip, titanyum tasarım, 48MP kamera sistemi ve ProMotion ekran teknolojisi.",
+    "price": 1299.99,
+    "image": "https://images.unsplash.com/photo-1695048133142-1a20484d2569?w=500",
+    "category": "Akıllı Telefon",
+    "rating": {
+      "rate": 4.9
+    }
+  },
+  {
+    "id": 2,
+    "title": "MacBook Pro 14'' M3",
+    "description": "M3 Pro çip, 18GB RAM, 512GB SSD, Liquid Retina XDR ekran ve 17 saat pil ömrü.",
+    "price": 1999.99,
+    "image": "https://images.unsplash.com/photo-1517336714731-489689fd1ca8?w=500",
+    "category": "Laptop",
+    "rating": {
+      "rate": 4.8
+    }
+  },
+  {
+    "id": 3,
+    "title": "AirPods Pro 2. Nesil",
+    "description": "Aktif Gürültü Önleme, Uyarlanabilir Ses, USB-C şarj kutusu ve IP54 su direnci.",
+    "price": 249.99,
+    "image": "https://images.unsplash.com/photo-1606841837239-c5a1a4a07af7?w=500",
+    "category": "Kulaklık",
+    "rating": {
+      "rate": 4.7
+    }
+  },
+  {
+    "id": 4,
+    "title": "iPad Air M2",
+    "description": "M2 çip, 11 inç Liquid Retina ekran, Apple Pencil Pro desteği ve tüm gün pil ömrü.",
+    "price": 599.99,
+    "image": "https://images.unsplash.com/photo-1544244015-0df4b3ffc6b0?w=500",
+    "category": "Tablet",
+    "rating": {
+      "rate": 4.6
+    }
+  },
+  {
+    "id": 5,
+    "title": "Apple Watch Ultra 2",
+    "description": "49mm titanyum kasa, GPS + Cellular, su altı 100m, aksiyon düğmesi ve çift frekanslı GPS.",
+    "price": 799.99,
+    "image": "https://images.unsplash.com/photo-1579586337278-3befd40fd17a?w=500",
+    "category": "Akıllı Saat",
+    "rating": {
+      "rate": 4.8
+    }
+  },
+  {
+    "id": 6,
+    "title": "Sony WH-1000XM5",
+    "description": "Endüstri lideri gürültü önleme, 30 saat pil ömrü, premium ses kalitesi ve çoklu cihaz bağlantısı.",
+    "price": 399.99,
+    "image": "https://images.unsplash.com/photo-1545127398-14699f92334b?w=500",
+    "category": "Kulaklık",
+    "rating": {
+      "rate": 4.7
+    }
+  },
+  {
+    "id": 7,
+    "title": "Samsung Galaxy S24 Ultra",
+    "description": "Snapdragon 8 Gen 3, 200MP kamera, S Pen desteği, 6.8 inç Dynamic AMOLED ekran.",
+    "price": 1199.99,
+    "image": "https://images.unsplash.com/photo-1610945415295-d9bbf067e59c?w=500",
+    "category": "Akıllı Telefon",
+    "rating": {
+      "rate": 4.8
+    }
+  },
+  {
+    "id": 8,
+    "title": "Dell XPS 15",
+    "description": "Intel Core i7 13. Nesil, 16GB RAM, 512GB SSD, NVIDIA RTX 4050 ve 15.6 inç OLED ekran.",
+    "price": 1799.99,
+    "image": "https://images.unsplash.com/photo-1593642632823-8f785ba67e45?w=500",
+    "category": "Laptop",
+    "rating": {
+      "rate": 4.6
+    }
+  }
+]
